@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.AssemblyInfo.cs
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.sourcelink.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\bin\Debug\net8.0\Methods & Loops_Q4_Array Methods.exe
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\bin\Debug\net8.0\Methods & Loops_Q4_Array Methods.deps.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\bin\Debug\net8.0\Methods & Loops_Q4_Array Methods.runtimeconfig.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\bin\Debug\net8.0\Methods & Loops_Q4_Array Methods.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\bin\Debug\net8.0\Methods & Loops_Q4_Array Methods.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\refint\Methods & Loops_Q4_Array Methods.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.genruntimeconfig.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\L6_Methods-Loops\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\ref\Methods & Loops_Q4_Array Methods.dll
